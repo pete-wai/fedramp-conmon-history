@@ -17,11 +17,11 @@ def capture(item):
             data = Path(item['local']).read_bytes(); resolved = url
         else:
             r = requests.get(url, timeout=45); r.raise_for_status(); data=r.content; resolved=r.url
-        ext = 'pdf' if data.startswith(b'%PDF') else 'xlsx' if data.startswith(b'PK') and ('xlsx' in url or 'xlsm' in url) else 'docx' if data.startswith(b'PK') and 'docx' in url else 'html' if b'<html' in data[:2000].lower() else 'txt'
+        ext = 'pdf' if data.startswith(b'%PDF') else 'xlsm' if data.startswith(b'PK') and 'xlsm' in url else 'xlsx' if data.startswith(b'PK') and 'xlsx' in url else 'docx' if data.startswith(b'PK') and 'docx' in url else 'html' if b'<html' in data[:2000].lower() else 'txt'
         path=ROOT/'research/raw'/f'{ident}.{ext}'; path.write_bytes(data)
         if ext=='pdf':
             reader=PdfReader(io.BytesIO(data)); content='\n\n'.join(f'--- PDF page {i+1} ---\n'+(p.extract_text() or '') for i,p in enumerate(reader.pages)); item['pages']=len(reader.pages)
-        elif ext=='xlsx':
+        elif ext in ('xlsx','xlsm'):
             wb=load_workbook(io.BytesIO(data),data_only=False); content='\n\n'.join('SHEET: '+s.title+'\n'+'\n'.join(' | '.join(str(v) if v is not None else '' for v in row) for row in s.values if any(v is not None for v in row)) for s in wb)
         elif ext=='docx':
             with zipfile.ZipFile(io.BytesIO(data)) as z: content='\n'.join(''.join(e.itertext()) for e in ET.fromstring(z.read('word/document.xml')).iter('{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p'))
