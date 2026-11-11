@@ -1,1 +1,12 @@
-{"name":"fedramp-conmon-history","type":"independent-report","parent":null,"status":"ready-for-publication","hypothesis":"A short chronological narrative with explicit source types can explain both scanner-model continuity and substantive technical adaptations without overstating causation.","base":"/fedramp-conmon-history","preview":"mise exec -- npm run preview","research_cutoff":"2026-11-11"}
+{
+  "name": "fedramp-conmon-history",
+  "type": "independent-report",
+  "parent": null,
+  "status": "published",
+  "hypothesis": "A short chronological narrative with explicit source types can explain both scanner-model continuity and substantive technical adaptations without overstating causation.",
+  "base": "/fedramp-conmon-history",
+  "preview": "mise exec -- npm run preview",
+  "research_cutoff": "2026-11-11",
+  "url": "https://pwai.dev/fedramp-conmon-history/",
+  "published_commit": "cc95f2f690d086c5f57d0b1daca4efd86551d631"
+}

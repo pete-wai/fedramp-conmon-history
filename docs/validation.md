@@ -7,6 +7,7 @@ Completed self-review, not an independent review.
 - Svelte MCP autofixer: zero issues after adding keyed each blocks.
 - Impeccable mechanical detector: empty findings.
 - Internal contents/citation anchors checked; all 33 references are cited.
+- Checked 42 external source links. Two Internet Archive URLs returned rate limits, so report links now use the retained identical PDFs. GovTribe returned 403 on direct retrieval; the reference identifies restricted access and the available archived-text evidence.
 - HTML language, main heading, contents landmark and script-free content checked.
 - Generated PDF: nine pages including complete bibliography, below the 15-page ceiling.
 - PDF content checked against HTML, including table and bibliography; retained document hashes checked.
