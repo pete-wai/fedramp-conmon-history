@@ -171,11 +171,11 @@
   {
     "number": 16,
     "title": "FedRAMP \u00b7 Container scanning draft v1.0, August 14, 2020",
-    "note": "Draft sections 2\u20134 and public-comment announcement (comments due September 11). Internet Archive document and mirrored government announcement.",
+    "note": "Draft sections 2\u20134 and public-comment announcement (comments due September 11). Retained Internet Archive PDF and mirrored government announcement.",
     "links": [
       {
         "label": "Draft PDF",
-        "url": "https://web.archive.org/web/20201019022119if_/https://www.fedramp.gov/assets/resources/documents/DRAFT_FedRAMP_Vulnerbility_Scanning_Requirements_for_the_Development_and_Use_of_Containers.pdf"
+        "url": "https://github.com/pete-wai/fedramp-conmon-history/blob/main/research/primary/containerdraft2020.pdf"
       },
       {
         "label": "Draft announcement",
@@ -223,11 +223,11 @@
   {
     "number": 20,
     "title": "FedRAMP \u00b7 Vulnerability Scanning Requirements, February 15, 2024",
-    "note": "Sections 3\u20134, printed pp. 1\u20136. Internet Archive capture February 28. Cover says v2.0; revision table says v3.0.",
+    "note": "Sections 3\u20134, printed pp. 1\u20136. Retained Internet Archive capture, February 28. Cover says v2.0; revision table says v3.0.",
     "links": [
       {
         "label": "scan2024",
-        "url": "https://web.archive.org/web/20240228145940if_/https://www.fedramp.gov/assets/resources/documents/CSP_Vulnerability_Scanning_Requirements.pdf"
+        "url": "https://github.com/pete-wai/fedramp-conmon-history/blob/main/research/primary/scan2024.pdf"
       }
     ]
   },
@@ -390,7 +390,7 @@
   {
     "number": 33,
     "title": "FedRAMP \u00b7 Draft Continuous Monitoring Monthly Reporting Summary Guide, August 20, 2014",
-    "note": "Government-authored draft text reproduced by GovTribe with the August 2014 request for comment; original DOCX not recovered. Reporting overview, finding granularity and deviation instructions.",
+    "note": "Government-authored draft text reproduced by GovTribe with the August 2014 request for comment; original DOCX not recovered. Reporting overview, finding granularity and deviation instructions. Archive access may be restricted.",
     "links": [
       {
         "label": "Archived draft text",
