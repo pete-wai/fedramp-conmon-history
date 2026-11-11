@@ -1,0 +1,11 @@
+[project]
+name = "fedramp-conmon-history"
+version = "0.1.0"
+requires-python = ">=3.13.7"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "openpyxl>=3.1.5",
+    "pypdf>=7.0.1",
+    "reportlab>=5.1.0",
+    "requests>=2.34.2",
+]

@@ -1,0 +1,16 @@
+node_modules/
+.svelte-kit/
+build/
+.venv/
+__pycache__/
+output/
+research/raw/
+research/text/
+.DS_Store
+# Discovery working files may contain machine paths and full third-party comments.
+research/*
+!research/primary/
+!research/source-inventory.json
+!research/edition-inventory.md
+!research/claim-notes.md
+scripts/prepare_sources.py

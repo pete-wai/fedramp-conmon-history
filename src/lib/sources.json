@@ -1,0 +1,401 @@
+[
+  {
+    "number": 1,
+    "title": "OMB \u00b7 Establishing FedRAMP, December 8, 2011",
+    "note": "Program responsibilities and continuous monitoring. Retrieved from inforegs.",
+    "links": [
+      {
+        "label": "memo2011",
+        "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/fedrampmemo.pdf"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "NIST \u00b7 SP 800-137, September 2011",
+    "note": "Sections 2\u20133: continuous monitoring strategy and program. Inforegs original.",
+    "links": [
+      {
+        "label": "nist137",
+        "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-137.pdf"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "FedRAMP \u00b7 Continuous Monitoring Strategy Guide v1.0, June 2012",
+    "note": "Ongoing assessment schedule, RA-5 and SI-2 rows. Government document preserved by the Center for Regulatory Effectiveness. Cover June 27; revision table June 14.",
+    "links": [
+      {
+        "label": "conmon2012",
+        "url": "https://www.thecre.com/cm/wp-content/uploads/2012/06/Continuous_Monitoring_Strategy_Guide_062712.pdf"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "NIST \u00b7 SP 800-53, Revisions 3 and 4",
+    "note": "CA-5, CA-7, RA-5, SI-2 and CM-8. Rev. 3 (2009, updated 2010); Rev. 4 (2013, updated copy). Inforegs originals.",
+    "links": [
+      {
+        "label": "Revision 3",
+        "url": "https://doi.org/10.6028/nist.sp.800-53r3"
+      },
+      {
+        "label": "Revision 4",
+        "url": "https://doi.org/10.6028/nist.sp.800-53r4"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "FedRAMP \u00b7 Continuous Monitoring Strategy Guide v2.0, June 6, 2014",
+    "note": "Ongoing assessment schedule and annual assessment. Historical SitesUSA document.",
+    "links": [
+      {
+        "label": "conmon2014",
+        "url": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/FedRAMP-Continuous-Monitoring-Strategy-Guide-v2.0-3.docx"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "NIST \u00b7 SP 800-53 Revision 5, September 2020",
+    "note": "CA-5, CA-7, RA-5, SI-2 and CM-8. Inforegs original.",
+    "links": [
+      {
+        "label": "nist53r5",
+        "url": "https://doi.org/10.6028/nist.sp.800-53r5"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "FedRAMP \u00b7 JAB P-ATO Vulnerability Scan Requirements v1.0, May 27, 2015",
+    "note": "PDF pp. 5\u20137: scan deliverables, sampling, rejection and escalation. Historical SitesUSA copy.",
+    "links": [
+      {
+        "label": "scan2015",
+        "url": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/01/FedRAMP-JAB-P-ATO-Vulnerability-Scan-Requirements-Guide-v1-0.pdf"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "FedRAMP \u00b7 POA&M Template Completion Guide v1.1, September 2015",
+    "note": "Sections 2\u20133: columns, deviations and vendor dependencies. Cover September 3; later revision history September 1. Historical SitesUSA copy.",
+    "links": [
+      {
+        "label": "poam2015",
+        "url": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/01/FedRAMP-POA_M-Template-Completion-Guide-v1-1.pdf"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "FedRAMP \u00b7 Tailored LI-SaaS Continuous Monitoring Guide v2.0, August 23, 2017",
+    "note": "Scanning, remediation and assessment schedule. Government guidance preserved by Carahsoft.",
+    "links": [
+      {
+        "label": "tailored2017",
+        "url": "https://static.carahsoft.com/concrete/files/1516/7096/2995/APPENDIX-D-FedRAMP-Tailored-LI-SaaS-Continuous-Monitoring-Guide.pdf"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "FedRAMP \u00b7 Continuous Monitoring Performance Management Guide v2.1, February 21, 2018",
+    "note": "Revision history and escalation tables. Government document preserved in a 2022 third-party GitHub mirror.",
+    "links": [
+      {
+        "label": "performance",
+        "url": "https://raw.githubusercontent.com/OpenGovDataMirror/A_gsa_fedramp-gov/e57a0f72c9a2539b4720dccb66040a15f0060be3/assets/resources/documents/CSP_Continuous_Monitoring_Performance_Management_Guide.pdf"
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "FedRAMP \u00b7 Vulnerability Scanning Requirements v1.0, March 20, 2018",
+    "note": "Sections 3\u20134: scanner properties, POA&M entries and transition. A 2022 mirror capture of the 2018 edition, not a 2022 edition.",
+    "links": [
+      {
+        "label": "scan2022",
+        "url": "https://raw.githubusercontent.com/OpenGovDataMirror/A_gsa_fedramp-gov/e57a0f72c9a2539b4720dccb66040a15f0060be3/assets/resources/documents/CSP_Vulnerability_Scanning_Requirements.pdf"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "FedRAMP \u00b7 Vulnerability Scan Sampling Guidance v1.0, March 20, 2018",
+    "note": "Eligibility, asset classes and approval. Government document in a third-party GitHub mirror.",
+    "links": [
+      {
+        "label": "sampling2018",
+        "url": "https://raw.githubusercontent.com/OpenGovDataMirror/A_gsa_fedramp-gov/e57a0f72c9a2539b4720dccb66040a15f0060be3/assets/resources/documents/CSP_Vulnerability_Scan_Requirements_Using_Sampling.pdf"
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "title": "FedRAMP \u00b7 Draft Automated Vulnerability Risk Adjustment Framework v0.1, March 20, 2018",
+    "note": "Draft pilot, environmental scoring and limits on automated adjustment. Third-party mirror; not treated as final policy.",
+    "links": [
+      {
+        "label": "risk2018",
+        "url": "https://raw.githubusercontent.com/OpenGovDataMirror/A_gsa_fedramp-gov/e57a0f72c9a2539b4720dccb66040a15f0060be3/assets/resources/documents/CSP_Automated_Vulnerability_Risk_Adjustment_Framework.pdf"
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "title": "FedRAMP \u00b7 Continuous Monitoring Strategy Guide v3.2, April 4, 2018",
+    "note": "Revision history and ongoing assessment table. Third-party mirror. The January 31 v3.0 change added low-risk 180-day remediation.",
+    "links": [
+      {
+        "label": "conmon2018",
+        "url": "https://raw.githubusercontent.com/OpenGovDataMirror/A_gsa_fedramp-gov/e57a0f72c9a2539b4720dccb66040a15f0060be3/assets/resources/documents/CSP_Continuous_Monitoring_Strategy_Guide.pdf"
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "title": "FedRAMP \u00b7 POA&M Template Completion Guide v2.2, November 23, 2021",
+    "note": "Revision history; section 2 column instructions; section 3 and footnote on late-only scanner findings. Third-party mirror.",
+    "links": [
+      {
+        "label": "poam2021",
+        "url": "https://raw.githubusercontent.com/OpenGovDataMirror/A_gsa_fedramp-gov/e57a0f72c9a2539b4720dccb66040a15f0060be3/assets/resources/documents/CSP_POAM_Template_Completion_Guide.pdf"
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "title": "FedRAMP \u00b7 Container scanning draft v1.0, August 14, 2020",
+    "note": "Draft sections 2\u20134 and public-comment announcement (comments due September 11). Internet Archive document and mirrored government announcement.",
+    "links": [
+      {
+        "label": "Draft PDF",
+        "url": "https://web.archive.org/web/20201019022119if_/https://www.fedramp.gov/assets/resources/documents/DRAFT_FedRAMP_Vulnerbility_Scanning_Requirements_for_the_Development_and_Use_of_Containers.pdf"
+      },
+      {
+        "label": "Draft announcement",
+        "url": "https://raw.githubusercontent.com/OpenGovDataMirror/A_gsa_fedramp-gov/e57a0f72c9a2539b4720dccb66040a15f0060be3/_posts/2020-08-14-vulnerability-scanning-requirements-for-the-deployment-and-use-of-containers.md"
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "title": "FedRAMP \u00b7 Vulnerability Scanning Requirements for Containers v1.0, March 16, 2021",
+    "note": "Sections 3\u20134 and release announcement. Final requirements following technical exchange and public comment.",
+    "links": [
+      {
+        "label": "Final PDF",
+        "url": "https://demo.fedramp.gov/resources/documents/Vulnerability_Scanning_Requirements_for_Containers.pdf"
+      },
+      {
+        "label": "Final announcement",
+        "url": "https://raw.githubusercontent.com/OpenGovDataMirror/A_gsa_fedramp-gov/e57a0f72c9a2539b4720dccb66040a15f0060be3/_posts/2021-03-16-Vulnerability-Scanning-doc.md"
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "title": "FedRAMP \u00b7 POA&M template update, June 28, 2022",
+    "note": "Announcement identifies columns AC (BOD 22-01 due date) and AD (CVEs). Mirrored government announcement.",
+    "links": [
+      {
+        "label": "poam2022-announcement",
+        "url": "https://raw.githubusercontent.com/OpenGovDataMirror/A_gsa_fedramp-gov/e57a0f72c9a2539b4720dccb66040a15f0060be3/_posts/2022-06-28-update-poam-template.md"
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "title": "GSA \u00b7 FSCAC outstanding questions, October\u2013November 2023",
+    "note": "October 26 exchange between Bo Berlas and FedRAMP PMO; page updated August 21, 2024.",
+    "links": [
+      {
+        "label": "fscac2023",
+        "url": "https://www.gsa.gov/technology/government-it-initiatives/federal-secure-cloud-advisory-committee/federal-secure-cloud-advisory-committee-meetings/fscac-outstanding-questions-to-fedramp-pmo-from-octobernovember-2023"
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "title": "FedRAMP \u00b7 Vulnerability Scanning Requirements, February 15, 2024",
+    "note": "Sections 3\u20134, printed pp. 1\u20136. Internet Archive capture February 28. Cover says v2.0; revision table says v3.0.",
+    "links": [
+      {
+        "label": "scan2024",
+        "url": "https://web.archive.org/web/20240228145940if_/https://www.fedramp.gov/assets/resources/documents/CSP_Vulnerability_Scanning_Requirements.pdf"
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "title": "OMB \u00b7 M-24-15, July 25, 2024",
+    "note": "Modernizing FedRAMP: commercial practices, automation and continuous monitoring. Inforegs original.",
+    "links": [
+      {
+        "label": "omb2024",
+        "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/M-24-15-Modernizing-the-Federal-Risk-and-Authorization-Management-Program.pdf"
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "title": "FedRAMP \u00b7 RFC-0008, May 2025",
+    "note": "Draft Continuous Reporting Standard; introductory rationale and proposed metrics. Did not advance in this form.",
+    "links": [
+      {
+        "label": "rfc8",
+        "url": "https://www.fedramp.gov/rfcs/0008/"
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "title": "FedRAMP \u00b7 RFC-0012, July\u2013August 2025",
+    "note": "Draft Continuous Vulnerability Management Standard; proposal, timeframes and applicability. Opened July 15; closed August 21.",
+    "links": [
+      {
+        "label": "rfc12",
+        "url": "https://www.fedramp.gov/rfcs/0012/"
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "title": "FedRAMP \u00b7 Official RFC register",
+    "note": "Published outcomes for RFC-0008 and RFC-0012. Checked November 11, 2026.",
+    "links": [
+      {
+        "label": "rfcindex",
+        "url": "https://www.fedramp.gov/rfcs/"
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "title": "Public comment \u00b7 mswilson, discussion 24",
+    "note": "Practitioner testimony about CVE mapping, severity and false positives; not a FedRAMP rule.",
+    "links": [
+      {
+        "label": "Public comment",
+        "url": "https://github.com/FedRAMP/community/discussions/24#discussioncomment-13286903"
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "title": "Public comment \u00b7 cb-axon, discussion 59",
+    "note": "Practitioner testimony about kernel findings, grouping and administrative work; not a FedRAMP rule.",
+    "links": [
+      {
+        "label": "Public comment",
+        "url": "https://github.com/FedRAMP/community/discussions/59#discussioncomment-14181120"
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "title": "Public comment \u00b7 Confluent response to RFC-0012",
+    "note": "Commercial provider response concerning unauthenticated scanning, architecture and timelines; not a FedRAMP rule.",
+    "links": [
+      {
+        "label": "Public comment",
+        "url": "https://github.com/FedRAMP/community/discussions/59#discussioncomment-14174574"
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "title": "FedRAMP \u00b7 Vulnerability Detection and Response, 2026",
+    "note": "VDR-CSO-DET, MSP and RES; VDR-TFR-PVR and KEV; applicability fields. Live rules checked November 11, 2026.",
+    "links": [
+      {
+        "label": "vdr2026",
+        "url": "https://www.fedramp.gov/2026/providers/rev5/rules/vulnerability-detection-and-response/"
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "title": "FedRAMP \u00b7 Vulnerability Evaluation and Reporting, 2026",
+    "note": "VER-EVA-ELX/EIR/EPA/GRV; VER-RPT-PER/VDT/AVI; VER-TFR-MHR/MAV/MRH/EVU. Live rules checked November 11, 2026.",
+    "links": [
+      {
+        "label": "ver2026",
+        "url": "https://www.fedramp.gov/2026/providers/rev5/rules/vulnerability-evaluation-and-reporting/"
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "title": "FedRAMP \u00b7 Continuous Monitoring Playbook v1.0, November 17, 2025",
+    "note": "Replacement-document table and continuing legacy workflow. Preserved government website document.",
+    "links": [
+      {
+        "label": "playbook2025",
+        "url": "https://github.com/pete-wai/fedramp-conmon-history/blob/main/research/primary/playbook2025.pdf"
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "title": "FedRAMP \u00b7 Baselines and reporting workbooks",
+    "note": "Recovered Rev. 4 baseline, December 2021 Rev. 5 public-comment draft, later legacy baseline and POA&M workbooks, monthly executive summary and deviation form. Snapshot dates do not establish original issuance dates; see edition inventory.",
+    "links": [
+      {
+        "label": "Rev. 4 baseline",
+        "url": "https://github.com/pete-wai/fedramp-conmon-history/blob/main/research/primary/rev4baseline.xlsx"
+      },
+      {
+        "label": "Rev. 5 draft (2021)",
+        "url": "https://github.com/pete-wai/fedramp-conmon-history/blob/main/research/primary/baseline2023draft.xlsx"
+      },
+      {
+        "label": "Legacy baseline",
+        "url": "https://github.com/pete-wai/fedramp-conmon-history/blob/main/research/primary/baseline.xlsx"
+      },
+      {
+        "label": "Rev. 4 POA&M",
+        "url": "https://github.com/pete-wai/fedramp-conmon-history/blob/main/research/primary/poam2022template.xlsx"
+      },
+      {
+        "label": "Legacy POA&M",
+        "url": "https://github.com/pete-wai/fedramp-conmon-history/blob/main/research/primary/poam-template.xlsx"
+      },
+      {
+        "label": "Monthly summary",
+        "url": "https://github.com/pete-wai/fedramp-conmon-history/blob/main/research/primary/summary-template.xlsx"
+      },
+      {
+        "label": "Deviation form",
+        "url": "https://github.com/pete-wai/fedramp-conmon-history/blob/main/research/primary/deviation-template.xlsx"
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "title": "FedRAMP \u00b7 NTC-0014, June 16, 2026",
+    "note": "BOD 26-04 response, VDR/VER transition history and accelerated mandatory adoption schedule.",
+    "links": [
+      {
+        "label": "notice14",
+        "url": "https://www.fedramp.gov/notices/0014/"
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "title": "FedRAMP \u00b7 Draft Continuous Monitoring Monthly Reporting Summary Guide, August 20, 2014",
+    "note": "Government-authored draft text reproduced by GovTribe with the August 2014 request for comment; original DOCX not recovered. Reporting overview, finding granularity and deviation instructions.",
+    "links": [
+      {
+        "label": "Archived draft text",
+        "url": "https://govtribe.com/file/government-file/iadoscitfedramp-fedramp-continuous-monitoring-reporting-and-poa-m-template-dot-docx"
+      }
+    ]
+  }
+]
